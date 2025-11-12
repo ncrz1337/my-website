@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Tech Stack
+
+Framework: [Next.js](https://nextjs.org)
+
+Icons: [Lucide React](https://lucide.dev)
+
+Styling: [Tailwind CSS](https://tailwindcss.com) & [shadcn/ui](https://ui.shadcn.com)
+
+Syntax Highlight: [Shiki](https://shiki.matsu.io)
+
+Database: [Upstash Redis](https://upstash.com)
+
+Deployment: [Vercel](https://vercel.com)
+
 ## Getting Started
 
 First, run the development server:
